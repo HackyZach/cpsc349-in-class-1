@@ -1,0 +1,16 @@
+body { /*1*/
+    background-color: powderblue;
+}
+
+nav { /*5*/
+    border-style: groove;
+    background-color: pink;
+}
+
+a { /*6*/
+    opacity: .8;
+}
+
+a:hover { /*6*/
+    opacity: 1;
+}

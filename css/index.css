@@ -1,0 +1,24 @@
+body { /*1*/
+    background-color: powderblue;
+}
+
+#pseudonym { /*2*/
+    font-family: cursive;
+}
+
+ul { /*4*/
+    list-style-type: square;
+}
+
+nav { /*5*/
+    border-style: groove;
+    background-color: pink;
+}
+
+a { /*6*/
+    opacity: .8;
+}
+
+a:hover { /*6*/
+    opacity: 1;
+}

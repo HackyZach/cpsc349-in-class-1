@@ -1,0 +1,26 @@
+body { /*1*/
+    background-color: darkblue;
+    color: white;
+}
+
+.alternate-p-color { /*3*/
+    background-color: green;
+}
+
+nav { /*5*/
+    border-style: groove;
+    background-color: pink;
+}
+
+a { /*6*/
+    opacity: .8;
+}
+
+a:hover { /*6*/
+    opacity: 1;
+}
+
+img { /*TO DO*/
+    height: 25%;
+    width: 25%;
+}
